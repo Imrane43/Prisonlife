@@ -12,3 +12,4 @@ local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or 
 ]]--  
 
 --[[ key = Join my Discord: https://discord.gg/ccACjuWhBW ]]--
+--[[ Script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/Prisonlife/refs/heads/main/Prisonlife",true))() ]]--
